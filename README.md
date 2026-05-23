@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khalid id-ouissasden</h1>
 <h3 align="center">Software Engineering with a deep focus on backend development.</h3>
 
--  **Full-Stack Developer and Software Engineering student at 1337 with a strong foundation in modern
-web technologies (React, Next.js, Node.js). Passionate about building scalable applications, clean
-architecture, and solving complex system design problems.**
+-  **Full-Stack Developer and Software Engineering student at 1337 with strong expertise in systems programming, client-server architecture, and Dockerized environments. Skilled in modern web technologies including React, Next.js, and Node.js, with a passion for building scalable applications, clean architecture, and solving complex system design challenges.**
 </p>
 
 <hr>
